@@ -9,7 +9,10 @@
     <title>FEDHABUD - FINANCIAL SOLUTION</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 
-    {{ Html::style(url('css/bootstrap.min.css')) }}
+
+
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+
     {{ Html::style(url('css/animate.css')) }}
     {{ Html::style(url('css/font-awesome.min.css')) }}
     {{ Html::style(url('css/flaticon.css')) }}
