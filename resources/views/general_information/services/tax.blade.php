@@ -24,55 +24,64 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2 class="section-title2">Architecture</h2>
+                        <h2 class="section-title2">TAX
+                            CONSULTANCY</h2>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-8">
-                        <p>Architecture non lorem ac erat suscipit bibendum. Nulla facilisi sedeuter nunc volutpat molli sapien veconseyer turpeutionyer masin libero sempe. Fusceler mollis augue sit amet hendrerit vestibulum. Duisteyerionyer venenatis lacus.</p>
-                        <p>Villa gravida eros ut turpis interdum ornare. Interdum et malesu they adamale fames ac anteipsun pimsinefaucibus urabitur arcu site feugiat in volutpat.</p>
-                        <div class="row mb-30">
-                            <div class="col-md-6 gallery-item">
-                                <a href="img/services/9.jpg" title="Architecture" class="img-zoom">
-                                    <div class="gallery-box">
-                                        <div class="gallery-img"> <img src="img/services/9.jpg" class="img-fluid mx-auto d-block" alt="Architecture"> </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-6 gallery-item">
-                                <a href="img/services/10.jpg" title="Architecture" class="img-zoom">
-                                    <div class="gallery-box">
-                                        <div class="gallery-img"> <img src="img/services/10.jpg" class="img-fluid mx-auto d-block" alt="Architecture"> </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-12 gallery-item">
-                                <a href="img/services/11.jpg" title="Architecture" class="img-zoom">
-                                    <div class="gallery-box">
-                                        <div class="gallery-img"> <img src="img/services/11.jpg" class="img-fluid mx-auto d-block" alt="Architecture"> </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
+                        <p>Our taxation professionals provide a wide range of tax services including tax
+                            compliance, planning and consulting. They are well versed in the unique tax
+                            laws in Tanzania mainland and Zanzibar. .
+                            The following are services under tax environment we are offer;</p>
+                        <p><strong>Tax preparation:</strong>  preparing and filling tax return for individuals, businesses
+                            and organization, ensuring accurate reporting of income, deductions and
+                            credits.</p>
+
+                        <p><strong>Tax planning: </strong>  Advising clients on tax strategies and planning to minimize
+                            their tax liabilities legally such as year-round tax planning considering factors
+                            such as investment, retirement contribution and business.</p>
+
+                        <p><strong>Tax compliance:</strong>    ensuring our clients adhere to tax laws and regulations at
+                            the national and local levels.</p>
+                        <p><strong>Tax audit representation:</strong> representing clients in the event of a tax audit by
+                            tax authorities.</p>
+                        <p><strong>Estate and inheritance tax planning:</strong>
+                             developing strategies to minimize
+                            estate and inheritance tax obligations for individuals and families.</p>
+                        <p><strong>  International taxation:</strong>
+                            We advise individuals and businesses on tax matters
+                            related to international activities, including cross border transaction, transfer
+                            pricing and compliance with international tax treaties</p>
+                        <p><strong>   Tax credits and incentives:  </strong>
+                            identifying and helping clients take advantage of
+                            tax credits and incentives available at national and local level to reduce tax
+                            liabilities. Especially entities under Special Economic Zone regulated under
+                            Export Processing Zone (EPZA).</p>
+                        <p><strong>      Taxation Advisory services:  </strong>
+                            our team of expert offers a wide range on
+                            structuring business transactions, evaluating tax implication of investment
+                            and providing guidance on complex tax issues.</p>
+                        <p><strong>     Tax software and technology implementation: </strong>
+                            assisting business in
+                            selecting, implementing and optimizing tax software and technology
+                            solutions to streamline tax compliance and reporting processes.</p>
+                        <p><strong>     Non-profit tax compliance: </strong>
+                             providing tax service to non-profit organizations,
+                            including applying for tax-exempt status, complying with non-profit tax
+                            regulation and filling annual returns</p>
+                        <p><strong>      Payroll tax services: </strong>
+                           managing payroll tax compliance, including calculating
+                            and remitting payroll taxes and ensuring compliance with employment tax
+                            regulations.</p>
+                        <p><strong>       Tax education and training: </strong>
+                            conducting training sessions to educate clients
+                            or employees about tax matters and updates in tax laws.
+                            We can help you to achieve your business goals through uniquely designed,
+                            objective focused on tax areas.</p>
                     </div>
                     <div class="col-md-4 sidebar-side">
-                        <aside class="sidebar blog-sidebar">
-                            <div class="sidebar-widget services">
-                                <div class="widget-inner">
-                                    <div class="sidebar-title">
-                                        <h4>All Services</h4>
-                                    </div>
-                                    <ul>
-                                        <li class="active"><a href="architecture.html">Achitecture</a></li>
-                                        <li><a href="interior-design.html">Interior Design</a></li>
-                                        <li><a href="urban-design.html">Urban Design</a></li>
-                                        <li><a href="planning.html">Planning</a></li>
-                                        <li><a href="3d-modelling.html">3D Modelling</a></li>
-                                        <li><a href="decor-plan.html">Decor Plan</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </aside>
+                        @include('general_information.services.includes.service_side_links')
                     </div>
                 </div>
 

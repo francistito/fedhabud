@@ -24,55 +24,73 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2 class="section-title2">Architecture</h2>
+                        <h2 class="section-title2">Accounting
+                            services</h2>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-8">
-                        <p>Architecture non lorem ac erat suscipit bibendum. Nulla facilisi sedeuter nunc volutpat molli sapien veconseyer turpeutionyer masin libero sempe. Fusceler mollis augue sit amet hendrerit vestibulum. Duisteyerionyer venenatis lacus.</p>
-                        <p>Villa gravida eros ut turpis interdum ornare. Interdum et malesu they adamale fames ac anteipsun pimsinefaucibus urabitur arcu site feugiat in volutpat.</p>
-                        <div class="row mb-30">
-                            <div class="col-md-6 gallery-item">
-                                <a href="img/services/9.jpg" title="Architecture" class="img-zoom">
-                                    <div class="gallery-box">
-                                        <div class="gallery-img"> <img src="img/services/9.jpg" class="img-fluid mx-auto d-block" alt="Architecture"> </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-6 gallery-item">
-                                <a href="img/services/10.jpg" title="Architecture" class="img-zoom">
-                                    <div class="gallery-box">
-                                        <div class="gallery-img"> <img src="img/services/10.jpg" class="img-fluid mx-auto d-block" alt="Architecture"> </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-12 gallery-item">
-                                <a href="img/services/11.jpg" title="Architecture" class="img-zoom">
-                                    <div class="gallery-box">
-                                        <div class="gallery-img"> <img src="img/services/11.jpg" class="img-fluid mx-auto d-block" alt="Architecture"> </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
+                        <p>This service is a crucial for managing financial
+                            records, ensuring compliance with tax laws,
+                            making informed financial decisions and
+                            maintaining accurate financial statements. Below
+                            are accounting services we offer to our esteem
+                            clients. The following are accounting service we
+                            do offer to our clients.</p>
+                        <p><strong>Financial statements preparation:</strong> we prepare
+                            financial statements by complying the local and
+                            international standards to provide a clear
+                            overview of a company financial performance and
+                            position..</p>
+
+                        <p><strong>Budgeting and forecasting:</strong>  assisting clients in
+                            creating budgets and financial forecast to plan
+                            future expenses, revenue and investment.</p>
+
+                        <p><strong>Payroll processing:</strong>  calculating and process
+                            employee’s salaries, taxes and benefits, ensuring
+                            compliance with labor laws and regulation as well
+                            as printing salary slips.</p>
+                        <p><strong>Compliance and regulatory reporting:</strong>   ensuring
+                            our clients businesses adhere to financial
+                            reporting
+                            requirements
+                            imposed
+                            by
+                            the
+                            government agencies and industry specific
+                            regulation.</p>
+                        <p><strong>Internal
+                                controls
+                                risk
+                                management:</strong>
+                            we
+                            evaluating and implementing internal controls to
+                            safeguard company assets, prevent fraud and
+                            manage financial risks effectively.</p>
+                        <p><strong>   Software implementation: </strong>
+                         assisting clients in
+                            selecting and implementing accounting software
+                            and technology solutions to streamline financial
+                            processes and enhance efficienc</p>
+                        <p><strong>   Forensic accounting: </strong>
+                             we investigate financial
+                            discrepancies, fraud, and irregularities with an
+                            organization.</p>
+                        <p><strong>   Estate and Trust accounting: </strong>
+                             managing the
+                            financial affairs of estates and trusts including
+                            asset valuation, distribution, and compliance with
+                            legal requirements.</p>
+                        <p><strong>   Cost accounting:  </strong>
+                           we analyze and tracking the
+                            costs of producing goods or service within a
+                            company, helping to optimize production
+                            processes and pricing strategies. This is highly to
+                            the factory clients.</p>
                     </div>
                     <div class="col-md-4 sidebar-side">
-                        <aside class="sidebar blog-sidebar">
-                            <div class="sidebar-widget services">
-                                <div class="widget-inner">
-                                    <div class="sidebar-title">
-                                        <h4>All Services</h4>
-                                    </div>
-                                    <ul>
-                                        <li class="active"><a href="architecture.html">Achitecture</a></li>
-                                        <li><a href="interior-design.html">Interior Design</a></li>
-                                        <li><a href="urban-design.html">Urban Design</a></li>
-                                        <li><a href="planning.html">Planning</a></li>
-                                        <li><a href="3d-modelling.html">3D Modelling</a></li>
-                                        <li><a href="decor-plan.html">Decor Plan</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </aside>
+                     @include('general_information.services.includes.service_side_links')
                     </div>
                 </div>
 
